@@ -1,0 +1,10 @@
+/* : : generated from ../../../lib/sfio/features/sfio by iffe version 2004-08-11 : : */
+#ifndef _def_rmfail_Sfio_f
+#define _def_rmfail_Sfio_f	1
+#define _sys_types	1	/* #include <sys/types.h> ok */
+#define _stat_blksize	1	/* st_blksize is a field in struct stat */
+#define _proto_open	1	/* open() has a vararg prototype */
+#define _lib_poll_fd_1	1	/* fd is first arg to poll() */
+#define _stream_peek	1	/* ioctl(I_PEEK) works */
+#define _socket_peek	1	/* recv(MSG_PEEK) works */
+#endif

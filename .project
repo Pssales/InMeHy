@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>mestrado</name>
+	<comment></comment>
+	<projects>
+		<project>jmetal-algorithm</project>
+		<project>jmetal-core</project>
+		<project>jmetal-exec</project>
+		<project>jMetal-master</project>
+		<project>jmetal-problem</project>
+		<project>T-TupleReallocation-normal</project>
+	</projects>
+	<buildSpec>
+		<buildCommand>
+			<name>org.eclipse.jdt.core.javabuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+	</buildSpec>
+	<natures>
+		<nature>org.eclipse.jdt.core.javanature</nature>
+	</natures>
+</projectDescription>

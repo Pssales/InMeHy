@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="utilitarios"/>
+	<classpathentry kind="src" path="proposta"/>
+	<classpathentry exported="true" kind="src" path="/T-TupleReallocation-normal"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/4"/>
+	<classpathentry kind="lib" path="C:/Users/Camila/Dropbox/metaheuristic/depedencias/opencsv-4.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Camila/Dropbox/metaheuristic/depedencias/jgrapht-1.3.0/lib/antlr4-runtime-4.7.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Camila/Dropbox/metaheuristic/depedencias/jgrapht-1.3.0/lib/commons-lang3-3.8.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Camila/Dropbox/metaheuristic/depedencias/jgrapht-1.3.0/lib/commons-text-1.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Camila/Dropbox/metaheuristic/depedencias/jgrapht-1.3.0/lib/fastutil-8.2.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Camila/Dropbox/metaheuristic/depedencias/jgrapht-1.3.0/lib/guava-26.0-jre.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Camila/Dropbox/metaheuristic/depedencias/jgrapht-1.3.0/lib/jgrapht-bundle-1.3.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Camila/Dropbox/metaheuristic/depedencias/jgrapht-1.3.0/lib/jgrapht-core-1.3.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Camila/Dropbox/metaheuristic/depedencias/jgrapht-1.3.0/lib/jgrapht-demo-1.3.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Camila/Dropbox/metaheuristic/depedencias/jgrapht-1.3.0/lib/jgrapht-ext-1.3.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Camila/Dropbox/metaheuristic/depedencias/jgrapht-1.3.0/lib/jgrapht-guava-1.3.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Camila/Dropbox/metaheuristic/depedencias/jgrapht-1.3.0/lib/jgrapht-io-1.3.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Camila/Dropbox/metaheuristic/depedencias/jgrapht-1.3.0/lib/jgrapht-opt-1.3.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Camila/Dropbox/metaheuristic/depedencias/jgrapht-1.3.0/lib/jgraphx-3.4.1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Camila/Dropbox/metaheuristic/depedencias/jgrapht-1.3.0/lib/jheaps-0.9.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

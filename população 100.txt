@@ -1,0 +1,5 @@
+população 100
+maxiterations 1000
+ibea 1000*100
+
+C:\Users\camil\eclipse-workspace\jMetal\resources\weightVectorFiles\mombi2\weight_03D_12.sld

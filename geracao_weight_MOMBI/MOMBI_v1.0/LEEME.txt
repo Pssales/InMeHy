@@ -1,0 +1,25 @@
+# Para compilar:
+make
+
+# Para ejecutar algoritmo, ver parametros de los archivos de configuracion
+./mombi param/archivo.config
+
+Ejemplo:
+./mombi param/ZDT1.config
+
+# Genera archivos de salida en directorio ./output
+
+# Casos especiales, en los que se desee generar un nuevo conjunto de pesos
+gcc -o pesos pesos.c
+./pesos parametro_h dimension
+
+# Organizacion de carpetas:
+
+weight: archivos de pesos para diferentes dimensiones
+param:  archivos de configuracion
+PFTrue: Verdaderos frentes de Pareto (unicamente cuanto se tiene activado graficacion con GNU-Plot)
+output: archivos de salida de ejecucion de MOMBI,
+
+  MOMBI_problema_dimension_ejecucion.pf  - Aproximacion del frente de Pareto
+  MOMBI_problema_dimension_ejecucion.pos - Conjunto optimo del frente de Pareto
+  MOMBI_problema_dimension.sum           - Resumen de parametros

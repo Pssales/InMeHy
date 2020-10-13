@@ -1,0 +1,29 @@
+Psize     = 120
+Gmax      = 416
+Function  = DTLZ1
+N         = 6
+M         = 2
+Range x01 = [0.000000, 1.000000]
+Range x02 = [0.000000, 1.000000]
+Range x03 = [0.000000, 1.000000]
+Range x04 = [0.000000, 1.000000]
+Range x05 = [0.000000, 1.000000]
+Range x06 = [0.000000, 1.000000]
+Wsize     = 120
+Wfile     = ./weight/w119_2.dat
+Pc        = 0.900000
+Nc        = 20.000000
+Pm        = 0.166667
+Nm        = 20.000000
+Debug     = 0
+Plot      = 0
+PFTrue    = 
+Sample    = 1
+
+Run       = 1
+Rseed     = 0.012963
+Evaluations              = 49920
+Number of crossovers     = 22337
+Number of mutations      = 33148
+Elapsed time             = 1449.349000 (ms)
+--------------------------------------------
